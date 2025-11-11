@@ -1,4 +1,4 @@
-🎮 Dead Pixel
+🕹️ Dead Pixel
 
 Dead Pixel is a 2D survival game built with Unity and C#.
 You play as the last surviving pixel trapped inside a dungeon
